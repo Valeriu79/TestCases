@@ -20,7 +20,7 @@ Registered users can log in to the application using email and password.
    
    **Expected result**
    
-   Form is being submitted and user is redirected to https://website.com/
+   Form is being submitted and user is redirected to https://website.com/app
 
 ## Sign up
 **Descriptions**
