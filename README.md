@@ -1,7 +1,8 @@
 # Test Case Samples
 ## Authorization
-**Descriptions**
-Registered users can log in to the application using email and password.  
+**Descriptions**  
+Registered users can log in to the application using email and password.      
+
 **Steps to Reproduce**  
 1. Go to sign up page https://website.com/login  
    **Expected result**     
@@ -13,28 +14,22 @@ Registered users can log in to the application using email and password.
    Form is being submitted and user is redirected to https://website.com/app
 
 ## Sign up
-**Descriptions**
-
+**Descriptions**  
 Users can create a new account 
 
-**Steps to Reproduce**
-
+**Steps to Reproduce**  
 1. Open "Sign Up" page: https://website.com/signup  
    **Expected result**  
      Form with fields:  
      Email  
-     Password
-   
+     Password  
 3. Fill form with the following credentials:  
    Username: test@website.com  
-   Pasword: passw
-
+   Pasword: passw  
 4. Click Submit button  
      **Expected result**  
-     Redirect to the "Success page"
-
-5. Open email application
-
+     Redirect to the "Success page"  
+5. Open email application  
 6. Confirm account registration by clicking on the confirm button from the email  
    **Expected result**  
    Account is activated  
